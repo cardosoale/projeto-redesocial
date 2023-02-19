@@ -17,7 +17,7 @@ body{
     background-size: cover;
     background-attachment: fixed;
     width: 98vw
-    heigth: 98vh
+    heigth: 100vh
 }
 
 main{
@@ -43,7 +43,6 @@ main{
 
 #redes{
     text-align: right;
-    margin-right: 15px;
 }
 
 #redes img{
